@@ -3,10 +3,10 @@ POST http://localhost:3003/api/blogs
 Content-Type: application/json
 
 {
-    "title": "Space",
-    "author": "Arti Kokua",
+    "title": "Nature",
+    "author": "Kiriko",
     "url": "https://ilovemaths.fi",
-    "likes": 25
+    "likes": 50
 }
 
 
